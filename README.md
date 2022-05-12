@@ -1,6 +1,6 @@
 ## Hola <img src="https://github.com/legacysec/legacysec/blob/main/giphy.gif" width="25px">
 
-Mi nombre es **Federico**, soy de Argentina :argentina:. Empecé por el año 2014 con [BackTrack Linux](https://es.wikipedia.org/wiki/BackTrack), y desde ahí me fue llevando a que se convierta en un hobby todo lo relacionado con el hacking etico.<br/>Actualmente soy estudiante de la seguridad de la información, estoy buscando desarrollar mis habilidades para convertirme en un profesional completo en la seguridad de la información en el sector laboral. Siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos.
+Mi nombre es **Federico**, soy de Argentina :argentina:. Empecé por el año 2014 con [BackTrack Linux](https://es.wikipedia.org/wiki/BackTrack), y desde ahí me fue llevando a que se convierta en un hobby todo lo relacionado con el hacking etico.<br/>Actualmente soy estudiante de la [Seguridad de la información](https://es.wikipedia.org/wiki/Seguridad_de_la_informaci%C3%B3n), estoy buscando desarrollar mis habilidades para convertirme en un profesional completo en la seguridad de la información en el sector laboral. Siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos.
 
 <img align='right' src="https://github.com/legacysec/legacysec/blob/main/giphy2.gif?raw=true" width="300" />
 
