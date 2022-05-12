@@ -5,7 +5,7 @@ Mi nombre es <code>Federico</code>, soy de Argentina :argentina:. Empecé por el
 <img align='right' src="https://github.com/legacysec/legacysec/blob/main/giphy2.gif?raw=true" width="300" />
 
 ## Habilidades
->Lenguajes y herramientas
+>Lenguajes y tecnologías
 - <code>HTML/CSS</code>
 - <code>Bootstrap</code>
 - <code>SQL</code>
