@@ -4,7 +4,8 @@ Mi nombre es **Federico**, soy de Argentina :argentina:. Por el aÃ±o 2014 empecÃ
 
 ## Habilidades
 >Tecnologias y herramientas
-- HTML/CSS/Bootstrap
+- HTML/CSS
+- Bootstrap
 - SQL
 - PHP
 
