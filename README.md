@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Mi nombre es **Federico**, soy de Argentina, y soy estudiante en la seguridad de la información.
+Mi nombre es **Federico**, soy de Argentina, y soy estudiante de la seguridad de la información.
 Actualmente estoy buscando desarrollar mis habilidades para convertirme en un profesional completo en la seguridad de la información, siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos.
 
 ## Habilidades
