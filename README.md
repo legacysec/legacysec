@@ -2,7 +2,7 @@
 
 Mi nombre es **Federico**, soy de Argentina :argentina:. Por el año 2014 empecé con BackTrack Linux, y eso me fue llevando a que se convierta en un hobby todo lo relacionado con el hacking etico.<br/>Actualmente soy estudiante de la seguridad de la información, estoy buscando desarrollar mis habilidades para convertirme en un profesional completo en la seguridad de la información en el sector laboral. Siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos.
 
-<img align='right' src="https://github.com/legacysec/legacysec/blob/main/giphy%20(1).gif?raw=true" width="300" />
+<img align='right' src="https://github.com/legacysec/legacysec/blob/main/giphy2.gif?raw=true" width="300" />
 
 ## Habilidades
 >Tecnologias y herramientas
