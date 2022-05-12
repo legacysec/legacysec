@@ -36,3 +36,7 @@ Mi nombre es **Federico**, soy de Argentina :argentina:. Por el año 2014 empec�
 
 ## Contacto 📫
 Email: fedelocascioo@gmail.com
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/legacysec/legacysec/90f5630baafc01fb7b5c698d7843f777f27588de/Bottom.svg" alt="Github Stats" />
+</p>
