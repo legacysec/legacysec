@@ -1,15 +1,15 @@
 # Hola <img src="https://github.com/legacysec/legacysec/blob/main/giphy.gif" width="25px">
 
-Mi nombre es **Federico**, soy de Argentina :argentina:. Empecé por el año 2014 con [BackTrack Linux](https://es.wikipedia.org/wiki/BackTrack), y desde ahí me fue llevando a que se convierta en un hobby todo lo relacionado con el hacking etico.<br/>Actualmente soy estudiante de la [Seguridad de la información](https://es.wikipedia.org/wiki/Seguridad_de_la_informaci%C3%B3n), y estoy buscando desarrollar mis habilidades para convertirme en un profesional completo en el sector laboral de la seguridad de la información. Siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos.
+Mi nombre es <code>Federico</code>, soy de Argentina :argentina:. Empecé por el año 2014 con [BackTrack Linux](https://es.wikipedia.org/wiki/BackTrack), y desde ahí me fue llevando a que se convierta en un hobby todo lo relacionado con el hacking etico.<br/>Actualmente soy estudiante de la [Seguridad de la información](https://es.wikipedia.org/wiki/Seguridad_de_la_informaci%C3%B3n), y estoy buscando desarrollar mis habilidades para convertirme en un profesional completo en el sector laboral de la seguridad de la información. Siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos.
 
 <img align='right' src="https://github.com/legacysec/legacysec/blob/main/giphy2.gif?raw=true" width="300" />
 
 ## Habilidades
->Tecnologias y herramientas
-- HTML/CSS
-- Bootstrap
-- SQL
-- PHP
+>Lenguajes y herramientas
+- <code>HTML/CSS</code>
+- <code>Bootstrap</code>
+- <code>SQL</code>
+- <code>PHP</code>
 
 >Seguridad informática:
 - Penetration testing
@@ -44,4 +44,4 @@ Email: fedelocascioo@gmail.com
         <img src="https://github.com/legacysec/legacysec/blob/main/connected.gif?raw=true" alt="Github Stats" />
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=legacy111&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=legacy1111&left_color=green&right_color=red)
