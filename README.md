@@ -43,3 +43,5 @@ Email: fedelocascioo@gmail.com
 <p align="center">
         <img src="https://github.com/legacysec/legacysec/blob/main/connected.gif?raw=true" alt="Github Stats" />
 </p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=legacy111&left_color=green&right_color=red)
