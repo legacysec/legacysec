@@ -4,6 +4,18 @@ Mi nombre es <code>Federico</code>, soy de Argentina :argentina:. Empecé por el
 
 <img align='right' src="https://github.com/legacysec/legacysec/blob/main/giphy2.gif?raw=true" width="300" />
 
+## Certificaciones:
+- [Ethical Hacking](https://sceu.frba.utn.edu.ar/wp-content/uploads/2020/07/ethical.pdf) 
+<code>UTN BA</code>
+- [Gestión de la seguridad](https://sceu.frba.utn.edu.ar/wp-content/uploads/2020/07/seginfo.pdf) 
+<code>UTN BA</code>
+- Diseño web
+<code>UTN REGIONAL DE HAEDO</code>
+- EC - Council Certified
+Ethical Hacker (CEH) V8
+(Pre-Test)
+<code>UTN BA</code>
+
 ## Habilidades
 >Lenguajes y tecnologías
 - <code>HTML/CSS</code>
