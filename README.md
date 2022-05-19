@@ -4,6 +4,9 @@ Mi nombre es <code>Federico</code>, soy de Argentina :argentina:. Empecé por el
 
 <img align='right' src="https://github.com/legacysec/legacysec/blob/main/giphy2.gif?raw=true" width="300" />
 
+## Mis repositorios:
+- [Pentest](https://github.com/legacysec/eh_pentest)
+
 ## Certificaciones:
 - [Ethical Hacking](https://sceu.frba.utn.edu.ar/wp-content/uploads/2020/07/ethical.pdf) 
 <code>UTN BA</code>
