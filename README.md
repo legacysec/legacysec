@@ -31,14 +31,15 @@ Ethical Hacker (CEH) V8
 - <code>PHP</code>
 
 >Seguridad informática:
-- Penetration testing
+- VA / Pentest
 - OWASP Top 10
+- Mitre Att&ck
+- AWS
+- Anti-Virus
+- Analisis de Malware
 - Seguridad fisica
 - Controles de acceso
-- TCP/IP
-- IP routing
-- Dispositivos y protocolos LAN
-- HTTP y tecnologías web
+- Networking
 - Gathering & reconnaissance
 - Nessus / OpenVAS
 - Firewalls / IDS / HoneyPots
@@ -49,12 +50,12 @@ Ethical Hacker (CEH) V8
 - Nmap
 - Burpsuite
 - Metasploit
-- VMware/VMVirtualBox
+- VMware/VirtualBox
 - Ingeniería social
 - Phishing
 - Malware y Botnets
 - Footprinting
-- Y más. . .
+- . . .
 
 ## Contacto 📫
 Email: fedelocascioo@gmail.com
