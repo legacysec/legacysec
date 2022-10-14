@@ -4,6 +4,10 @@ Mi nombre es <code>Federico</code>, soy de Argentina :argentina:. Empecé por el
 
 <img align='right' src="https://github.com/legacysec/legacysec/blob/main/giphy2.gif?raw=true" width="300" />
 
+## Experiencia laboral:
+
+<code>09/06/2022 - actualidad</code> FyS TechGroup - Ministerio de Desarrollo Productivo de la Nación Argentina.
+
 ## Mis repositorios:
 - [Pentest](https://github.com/legacysec/eh_pentest)
 
