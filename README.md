@@ -38,13 +38,6 @@ Ethical Hacker (CEH) V8
 (Pre-Test)
 <code>UTN BA</code>
 
-## Habilidades
->Lenguajes y tecnologías
-- <code>HTML/CSS</code>
-- <code>Bootstrap</code>
-- <code>SQL</code>
-- <code>PHP</code>
-
 >Seguridad informática:
 - VA / Pentest
 - OWASP Top 10
