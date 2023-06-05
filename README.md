@@ -8,7 +8,7 @@
 
 Tereas desarrolladas:
 
-- Realizer Vulnerability Assessments utilizando herramientas como Nessus y Acunetix.
+- Realizar Vulnerability Assessments utilizando herramientas como Nessus y Acunetix.
 Generación de informes basados en los resultados obtenidos y confirmación de falsos positivos.
 - Monitoreo de logs en Graylog para detectar tráfico de usuarios, conexiones desde ubicaciones externas, 
 entre otros aspectos.
