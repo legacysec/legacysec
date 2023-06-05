@@ -4,7 +4,7 @@
 
 ## Experiencia laboral:
 
-<code>09/06/2022 - actualidad</code> FyS TechGroup - Ministerio de Desarrollo Productivo de la Nación Argentina.
+<code>09/06/2022 - actualidad</code> FyS TechGroup 
 
 Tereas desarrolladas:
 
