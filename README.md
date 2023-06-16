@@ -39,26 +39,19 @@ Ethical Hacker (CEH) V8
 (Pre-Test)
 <code>UTN BA</code>
 
->Seguridad informática:
-- VA / Pentest
-- OWASP Top 10
-- Mitre Att&ck
-- AWS
-- Anti-Virus
-- Analisis de Malware
-- Seguridad fisica
-- Controles de acceso
-- Networking
-- Nessus / OpenVAS
-- Firewalls / IDS / HoneyPots
-- VPN/VPS
-- DoS/DDoS
-- Burpsuite
-- Metasploit
-- VMware/VirtualBox
-- Phishing
-- Analisis de malware
-- . . .
+>Cybersecurity:
+- Vulnerability Assessments 
+- Respuesta a incidentes
+- Pentesting
+- Análisis dinamico de malware
+- Análisis de phishing
+- SonarQube
+- OWASP TOP 10
+- Mitre ATT&CK
+- Consola antispam Kaspersky
+- OpenVAS / Nessus / Acunetix
+- AWS (GuardDuty, Security Hub, AWS Inspector)
+- Windows - Gnu/Linux - Mac OS
 
 ## Contacto 📫
 Email: federicolocascio@protonmail.com
