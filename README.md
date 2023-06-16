@@ -27,6 +27,7 @@ incluyendo casos de phishing, spam y malware.
 - [Pentest](https://github.com/legacysec/eh_pentest)
 
 ## Certificaciones:
+- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity) <code>Coursera</code>
 - [Ethical Hacking](https://sceu.frba.utn.edu.ar/wp-content/uploads/2020/07/ethical.pdf) 
 <code>UTN BA</code>
 - [Gestión de la seguridad](https://sceu.frba.utn.edu.ar/wp-content/uploads/2020/07/seginfo.pdf) 
